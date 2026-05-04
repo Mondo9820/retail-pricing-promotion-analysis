@@ -1,0 +1,4 @@
+promotion_id, product_id, promo_type, discount_pct, start_date, end_date PR001
+P001, New Year Promo, 15, 2025-01-01, 2025-01-07
+PR002, P005, Premium 011 Feature, 10,2025-01-02, 2025-01-08
+PR003, P013, Mask Spotlight, 20, 2025-01-03, 2025-01-10
