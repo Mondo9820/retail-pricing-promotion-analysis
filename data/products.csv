@@ -1,1 +1,15 @@
-
+product_id,product_name,category,brand,base_price
+P001, Hydrating Repair Shampoo,Shampoo,Kerastase,28
+P002,Nourishing Gloss Shampoo, Shampoo,Oribe,36
+P003,Stengthening Conditioner,Conditioner,Kerastase,31
+P004,Gold Lust Conditioner,Conditioner,Oribe,39
+P005,Elixir Ultime Hair Oil,Oil,Kerastase,42
+P006,Gold Lust Hair Oil,Oil,Oribe,52
+P007,Thermal Protection Spray,Spray,Kerastase,29
+P008,Impermeable Anti-Humidity Spray,Spray,Oribe,41
+P009, Leave-In Repair Cream, Leave-In Treatment, Kérastase, 34
+P010, Supershine Moisturising Cream, Leave-In Treatment, Oribe, 48
+P011, Revitalising Hair Serum, Serum, Kérastase, 44
+P012, Serene Scalp Serum, Serum, Oribe, 49
+P013, Deep Repair Hair Mask, Hair Mask, Kérastase, 46
+P014, Signature Moisture Masque, Hair Mask, Oribe, 58
